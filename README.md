@@ -1,5 +1,5 @@
 # TAMUHack2020  
-##1st place USAA Challenge, 2nd place Google Cloud Challenge
+## 1st place USAA Challenge, 2nd place Google Cloud Challenge
 ```
 pip install -r requirements.txt
 pip install dnspython
